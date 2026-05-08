@@ -1,0 +1,27 @@
+{
+  "name": "pgtas-desafio-dois-pontos",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/jaqueprado/pgtas-desafio-dois-pontos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jaqueprado/pgtas-desafio-dois-pontos/issues"
+  },
+  "homepage": "https://github.com/jaqueprado/pgtas-desafio-dois-pontos#readme",
+  "dependencies": {
+    "mocha": "^11.7.5"
+  }
+}
